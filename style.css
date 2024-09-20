@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Change the font */
+    color: #333; /* Dark text color */
+}
+
+h1 {
+    color: #ff4500; /* Orange color for the main heading */
+}
+
+h2 {
+    color: #4682b4; /* Steel blue color for the subheading */
+}
+
+p {
+    font-size: 18px; /* Increase font size for paragraphs */
+    line-height: 1.5; /* Improve line spacing */
+}
